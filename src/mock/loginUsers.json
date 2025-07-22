@@ -1,0 +1,8 @@
+[{"id":1,"userName":"admin","pw":"admin", "role":"admin"},
+{"id":2,"userName":"dev1","pw":"dev1", "role":"dev"},
+{"id":3,"userName":"dev2","pw":"dev2", "role":"dev"},
+{"id":8,"userName":"dev3","pw":"dev3", "role":"dev"},
+{"id":4,"userName":"mkt1","pw":"mkt1", "role":"mkt"},
+{"id":5,"userName":"mkt2","pw":"mkt2", "role":"mkt"},
+{"id":6,"userName":"operation1","pw":"operation1", "role":"operation"},
+{"id":7,"userName":"operation2","pw":"operation2", "role":"operation"}]
